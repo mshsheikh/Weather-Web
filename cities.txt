@@ -1,0 +1,110 @@
+North America
+1. New York City, USA  
+2. Los Angeles, USA  
+3. San Francisco, USA  
+4. Miami, USA  
+5. Chicago, USA  
+6. Vancouver, Canada  
+7. Toronto, Canada  
+8. Montreal, Canada  
+9. Cancun, Mexico  
+10. Mexico City, Mexico  
+
+### South America
+11. Rio de Janeiro, Brazil  
+12. São Paulo, Brazil  
+13. Buenos Aires, Argentina  
+14. Lima, Peru  
+15. Bogotá, Colombia  
+16. Medellín, Colombia  
+17. Santiago, Chile  
+18. Quito, Ecuador  
+19. Montevideo, Uruguay  
+20. Cartagena, Colombia  
+
+### Europe
+21. London, United Kingdom  
+22. Paris, France  
+23. Rome, Italy  
+24. Venice, Italy  
+25. Florence, Italy  
+26. Barcelona, Spain  
+27. Madrid, Spain  
+28. Berlin, Germany  
+29. Munich, Germany  
+30. Amsterdam, Netherlands  
+31. Prague, Czech Republic  
+32. Vienna, Austria  
+33. Budapest, Hungary  
+34. Athens, Greece  
+35. Lisbon, Portugal  
+36. Dubrovnik, Croatia  
+37. Edinburgh, United Kingdom  
+38. Istanbul, Turkey  
+39. Reykjavik, Iceland  
+40. Zurich, Switzerland  
+
+### Asia
+41. Tokyo, Japan  
+42. Kyoto, Japan  
+43. Osaka, Japan  
+44. Seoul, South Korea  
+45. Beijing, China  
+46. Shanghai, China  
+47. Hong Kong, China  
+48. Bangkok, Thailand  
+49. Phuket, Thailand  
+50. Chiang Mai, Thailand  
+51. Kuala Lumpur, Malaysia  
+52. Singapore, Singapore  
+53. Bali, Indonesia  
+54. Jakarta, Indonesia  
+55. Hanoi, Vietnam  
+56. Ho Chi Minh City, Vietnam  
+57. New Delhi, India  
+58. Mumbai, India  
+59. Jaipur, India  
+60. Dubai, UAE  
+
+### Africa
+61. Cape Town, South Africa  
+62. Johannesburg, South Africa  
+63. Marrakech, Morocco  
+64. Casablanca, Morocco  
+65. Cairo, Egypt  
+66. Alexandria, Egypt  
+67. Nairobi, Kenya  
+68. Mombasa, Kenya  
+69. Zanzibar City, Tanzania  
+70. Accra, Ghana  
+
+### Oceania
+71. Sydney, Australia  
+72. Melbourne, Australia  
+73. Brisbane, Australia  
+74. Perth, Australia  
+75. Auckland, New Zealand  
+76. Queenstown, New Zealand  
+77. Wellington, New Zealand  
+78. Christchurch, New Zealand  
+79. Suva, Fiji  
+80. Bora Bora, French Polynesia  
+
+### Middle East
+81. Abu Dhabi, UAE
+82. Doha, Qatar
+83. Riyadh, Saudi Arabia  
+84. Jeddah, Saudi Arabia 
+87. Muscat, Oman  
+
+### Central America & Caribbean
+88. Havana, Cuba  
+89. San Juan, Puerto Rico  
+90. Santo Domingo, Dominican Republic  
+91. Panama City, Panama  
+92. San Jose, Costa Rica  
+93. Belize City, Belize  
+94. Kingston, Jamaica  
+95. Antigua, Guatemala  
+96. Managua, Nicaragua  
+97. Nassau, Bahamas
