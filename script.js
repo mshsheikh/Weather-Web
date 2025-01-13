@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
     Dubai: "UAE",
     Austin: "USA",
     Boston: "USA",
-    "San Jose": "USA",
+    Miami: "USA", // 1st GitHub collaboration with "ai-robertwilliam"
     Chicago: "USA",
     Istanbul: "Turkey",
     Madrid: "Spain",
